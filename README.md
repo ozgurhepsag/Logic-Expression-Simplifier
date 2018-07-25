@@ -1,1 +1,1 @@
-# Logic-Expression-Simplifier
+# Logic Expression Simplifier

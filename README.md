@@ -1,1 +1,1 @@
-# Logic Expression Simplifier
+# Logic Expression Simplifier using Quine McCluskey Algorithm

@@ -18,17 +18,12 @@ In this project, a simplification was designed tool for logic expressions. A win
 
 ● JavaFX library will be used for the project.
 
-Truth Table Format in .tt files:
+Truth Table Format in .tt files: <br />
+>A,B,C;F <br />
+>0,0,0;0 <br />
+>0,0,1;1 <br />
+>… <br />
+>1,1,1;0 <br />
 
-A,B,C;F
-
-0,0,0;0
-
-0,0,1;1
-
-…
-
-1,1,1;0
-
-
-Example 2 - Logic Expression Format: F = A’.B’.C + A’.B.C’ + A.B’.C + A.B’.C’
+Example 2 - Logic Expression Format: <br />
+>F = A’.B’.C + A’.B.C’ + A.B’.C + A.B’.C’
